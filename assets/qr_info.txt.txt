@@ -1,0 +1,1 @@
+qr_info.txt contains information about QR   code use only for documentation sharing.

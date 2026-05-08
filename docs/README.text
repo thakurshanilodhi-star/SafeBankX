@@ -1,0 +1,8 @@
+SafeBankX is a C++ backend banking prototype.
+
+Focus:
+- Correct C++ usage
+- Security thinking
+- Auditability
+- Fraud rule engine
+- Clean modular architecture
